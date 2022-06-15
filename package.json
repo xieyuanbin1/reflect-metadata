@@ -1,0 +1,24 @@
+{
+  "name": "reflect-metadata",
+  "version": "0.1.13",
+  "description": "Polyfill for Metadata Reflection API",
+  "main": "Reflect.js",
+  "types": "index.d.ts",
+  "typescript": {
+    "definition": "Reflect.d.ts"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xybin1990/reflect-metadata.git"
+  },
+  "keywords": [],
+  "author": "xybin1990",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/xybin1990/reflect-metadata/issues"
+  },
+  "homepage": "https://github.com/xybin1990/reflect-metadata#readme"
+}
